@@ -94,7 +94,7 @@ Conclusiones
 las resistencias, saber que si a un componente le llega mucha corriente se puede quemar, entonces debemos poder leer cuanta corriente le esta llegando a cada 
 componente y evitar que estas cosas pasen.
 
-•	Los circuitos pueden tener interruptores, lo que se conoce como circuito abierto y circuito cerrado, esto puede hacer que la corriente que le pasa a un componente se corte.
+•	Tener en cuenta que cuando hagamos los calculos, las medidas esten en sus unidades correspondientes, Amperios, Voltios, Ohms, etc ya que se puede dar un caluclo erroneo.
 
 Bibliografía
 
