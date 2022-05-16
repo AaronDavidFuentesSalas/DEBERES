@@ -100,5 +100,7 @@ Bibliografía
 
 •	Floyd, T. (2007). Principios de circuitos eléctricos (8.a ed., Vol. 1). Pearson Education. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
 0 comments on commit 73edc1a
+
 RUBRICA
+
 ![ ](https://github.com/AaronDavidFuentesSalas/DEBERES/blob/main/tabla.png)
