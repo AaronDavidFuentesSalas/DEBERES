@@ -25,16 +25,16 @@ Marco Teórico
 
 La notación científica es un método estándar empleado para representar números muy grandes y muy pequeños tal como si fuesen un número entre uno y diez (un dígito a la izquierda del punto decimal) multiplicado por una potencia de diez.
 
-  1.1 Exponente
+1.1.Exponente
   
     Es el número al cual se eleva un número base.
 
-  1.2 Potencia de diez
+1.2.Potencia de diez
   
     Representación numérica compuesta de una base de 10 y un exponente; el número 10
     elevado a una potencia.
     
-  1.3 SI
+1.3.SI
   
     Sistema internacional estandarizado de unidades de medición que se utiliza en todo trabajo de ingeniería y científico.
     
