@@ -97,7 +97,7 @@ Conclusiones
 las resistencias, saber que si a un componente le llega mucha corriente se puede quemar, entonces debemos poder leer cuanta corriente le esta llegando a cada 
 componente y evitar que estas cosas pasen.
 
-•	Tener en cuenta que cuando hagamos los calculos, las medidas esten en sus unidades correspondientes, Amperios, Voltios, Ohms, etc ya que se puede dar un caluclo erroneo.
+•	Tener en cuenta que cuando hagamos los calculos, las medidas esten en sus unidades correspondientes, Amperios, Voltios, Ohms, etc ya que se puede dar un cálculo erroneo.
 
 Bibliografía
 
